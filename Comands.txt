@@ -5,4 +5,5 @@
 # INSTALLING REQUIREMENTS : pip install -r requirements.txt
                             pip install -r 2_ANN-Regeression-Project\requirements.txt
                             
-# DEPLOYED AT : https://ann-salary-prediction-regression-problem-horzivyomij6znzamb5gr.streamlit.app/
+
+# DEPLOYED AT : https://rnn-imdb-text-classification-problem-g6hkqphjamzrcvnz5wvmhm.streamlit.app/
